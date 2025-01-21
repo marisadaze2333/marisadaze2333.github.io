@@ -68,7 +68,7 @@ share: false
 <div style="font-size: 16px;" markdown="1"> 
 
 + [A Hybrid Framework of Reinforcement Learning and Convex Optimization for UAV-Based Autonomous Metaverse Data Collection](https://doi.org/10.1109/MNET.011.2300032), <br>
-  Peiyuan Si, **Liangxin Qian**, Jun Zhao, Kwok-Yan Lam. <br>
+  Peiyuan Si, **Liangxin Qian**, Jun Zhao, and Kwok-Yan Lam. <br>
   _In **IEEE Network**, 2023._
 
 
