@@ -9,7 +9,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
  
-### *Journal Articles*
+### *Journal Papers*
  
 + [User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications](https://doi.org/10.1109/TWC.2024.3401184), <br>
   **Liangxin Qian**, Chang Liu, and Jun Zhao. <br>
