@@ -21,7 +21,7 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
         <b>Nanyang Technological University</b> <br>
         College of Computing and Data Science <br>
         Aug. 2022 - Present  <br>
-        Ph.D. student
+        Ph.D. candidate
     </div>
 </div>
 
