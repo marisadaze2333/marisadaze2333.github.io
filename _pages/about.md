@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the College of Computing and Data Science, Nanyang Technological University, Singapore. In 2019 and 2022, I received my Bachelor's and Master's degrees in communication engineering from the University of Electronic Science and Technology of China, Chengdu, China. My research interests include mobile edge computing, quantum networks, and secure communications.
+I am a PhD student at [College of Computing and Data Science](https://www.ntu.edu.sg/computing), [Nanyang Technological University](https://www.ntu.edu.sg/) (NTU), Singapore. In 2019 and 2022, I received my Bachelor's and Master's degrees in communication engineering from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (UESTC), Chengdu, China. My research interests include mobile edge computing, quantum networks, and secure communications.
 
 Liangxin's personal website
 ======
