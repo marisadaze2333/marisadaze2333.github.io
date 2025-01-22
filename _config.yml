@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qian Liangxin "
+title                    : "Qian Liangxin's Homepage"
 title_separator          : "-"
-name                     : &name "Qian Liangxin's Homepage"
+name                     : &name "Qian Liangxin"
 description              : &description "personal description"
 url                      : https://marisadaze2333.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
