@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qian Liangxin (钱良鑫)"
+title                    : "Qian Liangxin "
 title_separator          : "-"
-name                     : &name "Qian Liangxin"
+name                     : &name "Qian Liangxin's Homepage"
 description              : &description "personal description"
 url                      : https://marisadaze2333.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "marisadaze2333/marisadaze2333.github.io"
 author:
   # Biographic information
   avatar           : "my_photo.jpg"
-  name             : "Qian Liangxin"
+  name             : "Qian Liangxin (钱良鑫)"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Nanyang Technological University"
   location         : "Singapore"
