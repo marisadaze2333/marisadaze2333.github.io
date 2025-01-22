@@ -5,7 +5,6 @@ author_profile: true
 share: false
 ---
 
-
 ### Teaching Assistant @ NTU
 <div style="font-size: 16px;" markdown="1">
   
