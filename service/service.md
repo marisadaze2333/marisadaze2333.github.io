@@ -10,7 +10,7 @@ share: false
 <div style="font-size: 16px;" markdown="1">
 
 + Program Committee Member, [International Conference on Science of Cyber Security (SciSec), 2024.](https://scisec.org/index.html)
-+ Session Chair, [13th EAI International Conference on Wireless and Satellite Systems, Singapore, 2024.](https://psats.eai-conferences.org/2022/)
++ Session Chair, [13th EAI International Conference on Wireless and Satellite Systems, Singapore, 2022.](https://psats.eai-conferences.org/2022/)
 
 
 </div>
