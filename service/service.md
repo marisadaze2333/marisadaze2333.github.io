@@ -9,7 +9,8 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
 
-+ Program Committee Member, [International Conference on Science of Cyber Security (SciSec), 2024.](https://scisec.org/index.html)
++ Track Chair, Communication Network Security Workshop of SciSec (ComNet-Sec), Denmark, 2024.
++ Program Committee Member, [International Conference on Science of Cyber Security (SciSec), Denmark, 2024.](https://scisec.org/index.html)
 + Session Chair, [13th EAI International Conference on Wireless and Satellite Systems, Singapore, 2022.](https://psats.eai-conferences.org/2022/)
 
 
@@ -26,6 +27,7 @@ share: false
 + IEEE Transactions on Cognitive Communications and Networking (TCCN)
 + IEEE Wireless Communications Letters (WCL)
 + IEEE Communications Letters (CL)
++ IEEE Open Journal of the Computer Society (OJCS)
 + IEEE Access
 + IEEE Systems Journal
 + Transactions on Emerging Telecommunications Technologies
@@ -45,11 +47,14 @@ share: false
 + ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)
 + IEEE International Conference on Computer Communications (INFOCOM)
 + IEEE International Conference on Distributed Computing Systems (ICDCS)
++ The Annual AAAI Conference on Artificial Intelligence (AAAI)
 + IEEE Global Blockchain Conference (GBC)
 + IEEE/ACM International Symposium on Quality of Service (IWQOS)
 + IEEE Global Communications Conference (GLOBECOM)
 + IEEE Vehicular Technology Conference (VTC)
 + The 6th International Conference on Science of Cyber Security (SciSec 2024)
-+ The 39th Annual AAAI Conference on Artificial Intelligence (AAAI 25)
++ IEEE International Conference on Collaboration and Internet Computing (CIC)
++ International Conference on Neural Information Processing (ICONIP)
+
 
 </div>
