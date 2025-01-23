@@ -1,3 +1,11 @@
+---
+permalink: /teaching/
+layout: single
+author_profile: true
+type: teaching
+share: false
+---
+
 ### Teaching Assistant @ NTU
 <div style="font-size: 16px;" markdown="1">
   
