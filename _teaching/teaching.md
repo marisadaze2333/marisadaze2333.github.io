@@ -1,8 +1,9 @@
 ---
 permalink: /teaching/
-layout: single
 # title: "Teaching"
+layout: single
 author_profile: true
+type: teaching
 share: false
 ---
 
