@@ -1,8 +1,6 @@
 ---
 permalink: /teaching/
-layout: single
 author_profile: true
-type: teaching
 share: false
 ---
 
