@@ -52,7 +52,7 @@ share: false
 + IEEE/ACM International Symposium on Quality of Service (IWQOS)
 + IEEE Global Communications Conference (GLOBECOM)
 + IEEE Vehicular Technology Conference (VTC)
-+ The 6th International Conference on Science of Cyber Security (SciSec 2024)
++ The International Conference on Science of Cyber Security (SciSec)
 + IEEE International Conference on Collaboration and Internet Computing (CIC)
 + International Conference on Neural Information Processing (ICONIP)
 
