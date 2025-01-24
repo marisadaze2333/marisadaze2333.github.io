@@ -60,7 +60,9 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
 <hr>
 
 # Selected Awards
+
 + BigCom 2024 Best Student Paper Award, 2024
++ SCRIPTS Research Scholarship, 2022 - Present
 + China National Scholarship of UESTC, 2021
   
 <hr>
