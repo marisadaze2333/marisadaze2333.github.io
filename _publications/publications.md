@@ -85,6 +85,8 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
++ Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications, <br>
+  **Liangxin Qian** and Jun Zhao.
 + Applications of Inequalities to Optimization in Communication Networking: Novel Decoupling Techniques and Bounds for Multiplicative Terms Through Successive Convex Approximation, <br>
   **Liangxin Qian**, Wenhan Yu, Peiyuan Si, and Jun Zhao.
 + Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks, <br>
