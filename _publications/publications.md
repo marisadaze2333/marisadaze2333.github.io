@@ -39,10 +39,10 @@ share: false
 
 + Utility-Cost Ratio Maximization in Quantum Networks for Secure Quantum Key Distribution, <br>
   **Liangxin Qian** and Jun Zhao. <br>
-  _In IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2025), 2025._
+  _In IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2025._
 + Quantum Networks in 6G Communications: Technologies, Challenges, and Applications, <br>
   **Liangxin Qian** and Jun Zhao. <br>
-  _In IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC 2025), Poster, 2025._
+  _In IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), Poster, 2025._
 + [Data Processing Efficiency Aware User Association and Resource Allocation in Blockchain-Enabled Metaverse over Wireless Communications](https://doi.org/10.1145/3641512.3686376), <br>
   **Liangxin Qian** and Jun Zhao. <br>
   _In **ACM MobiHoc**, 2024._
