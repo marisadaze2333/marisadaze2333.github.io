@@ -91,6 +91,8 @@ share: false
   **Liangxin Qian**, Wenhan Yu, Peiyuan Si, and Jun Zhao.
 + Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks, <br>
   **Liangxin Qian** and Jun Zhao.
++ A Survey on Private Transformer Inference, <br>
+  Yang Li, Xinyu Zhou, Yitong Wang, **Liangxin Qian**, and Jun Zhao.
 + Joint Optimization in Heterogeneous STIN Mobile Edge Computing Systems, <br>
   Tianming Lan, **Liangxin Qian**, Xinyu Zhou, and Jun Zhao.
 + Transforms for Multiplicative and Fractional Programming with Broad Applications in Edge Computing and Communication Networks, <br>
