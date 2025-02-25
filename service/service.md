@@ -25,6 +25,7 @@ share: false
 + IEEE Journal of Selected Areas in Communications (JSAC)
 + IEEE Journal of Selected Topics in Signal Processing (JSTSP)
 + IEEE Transactions on Wireless Communications (TWC)
++ IEEE Transactions on Communications (TCOM)
 + IEEE Transactions on Cognitive Communications and Networking (TCCN)
 + IEEE Wireless Communications Letters (WCL)
 + IEEE Communications Letters (CL)
