@@ -37,6 +37,9 @@ share: false
 
 <div style="font-size: 16px;" markdown="1"> 
 
++ QuHE: Optimizing Utility-Cost in Quantum Key Distribution and Homomorphic Encryption Enabled Secure Edge Computing Networks, <br>
+  **Liangxin Qian**, Yang Li, and Jun Zhao. <br>
+  _In **IEEE ICDCS**, 2025._
 + Utility-Cost Ratio Maximization in Quantum Networks for Secure Quantum Key Distribution, <br>
   **Liangxin Qian** and Jun Zhao. <br>
   _In IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2025._
