@@ -10,26 +10,7 @@ share: false
 <div style="font-size: 16px;" markdown="1">
  
 ### *Journal Papers*
- 
-+ [User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications](https://doi.org/10.1109/TWC.2024.3401184), <br>
-  **Liangxin Qian**, Chang Liu, and Jun Zhao. <br>
-  In _IEEE Transactions on Wireless Communications (**TWC**), 2025._
-+ [Distributed Learning for Wireless Communications: Methods, Applications and Challenges](https://doi.org/10.1109/JSTSP.2022.3156756), <br>
-  **Liangxin Qian**, Ping Yang, Ming Xiao, Octavia A. Dobre, Marco Di Renzo, Jun Li, Zhu Han, Qin Yi, and Jiarong Zhao. <br>
-  In _IEEE Journal of Selected Topics in Signal Processing (**JSTSP**), 2022._
-+ [Multi-Dimensional Polarized Modulation for Land Mobile Satellite Communications](https://doi.org/10.1109/TCCN.2021.3072593), <br>
-  **Liangxin Qian**, Ping Yang, Yong Liang Guan, Zilong Liu, Yue Xiao, Ke Jiang, and Ming Xiao. <br>
-  In _IEEE Transactions on Cognitive Communications and Networking (**TCCN**), 2021._
-+ [Post-Deployment Fine-Tunable Semantic Communication](https://doi.org/10.1109/TWC.2024.3433479), <br>
-  Peiyuan Si, Renyang Liu, **Liangxin Qian**, Jun Zhao, and Kwok-Yan Lam. <br>
-  In _IEEE Transactions on Wireless Communications (**TWC**), 2025._
-+ [Human-Centric Resource Allocation in the Metaverse over Wireless Communications](https://doi.org/10.1109/JSAC.2023.3345397), <br>
-  Jun Zhao, **Liangxin Qian**, and Wenhan Yu. <br>
-  In _IEEE Journal on Selected Areas in Communications (**JSAC**), 2024._
-+ [AMFL: Resource-Efficient Adaptive Metaverse-Based Federated Learning for the Human-Centric Augmented Reality Applications](https://doi.org/10.1109/TNNLS.2024.3409446), <br>
-  Dewen Qiao, **Liangxin Qian**, Songtao Guo, and Jun Zhao. <br>
-  In _IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024._
-  
+
 <ol>
   <li>
     <a href="https://doi.org/10.1109/TWC.2024.3401184">User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications</a>, <br>
