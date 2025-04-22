@@ -32,6 +32,8 @@ share: false
 + IEEE Open Journal of the Computer Society (OJCS)
 + IEEE Access
 + IEEE Systems Journal
++ IEEE Vehicular Technology Magazine
++ ACM Transactions on Quantum Computing
 + Transactions on Emerging Telecommunications Technologies
 + EURASIP Journal on Wireless Communications and Networking
 + Computer Communications
