@@ -29,7 +29,39 @@ share: false
 + [AMFL: Resource-Efficient Adaptive Metaverse-Based Federated Learning for the Human-Centric Augmented Reality Applications](https://doi.org/10.1109/TNNLS.2024.3409446), <br>
   Dewen Qiao, **Liangxin Qian**, Songtao Guo, and Jun Zhao. <br>
   In _IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2024._
-
+  
+<ol>
+  <li>
+    <a href="https://doi.org/10.1109/TWC.2024.3401184">User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications</a>, <br>
+    <strong>Liangxin Qian</strong>, Chang Liu, and Jun Zhao. <br>
+    In <em>IEEE Transactions on Wireless Communications (<strong>TWC</strong>), 2025.</em>
+  </li>
+  <li>
+    <a href="https://doi.org/10.1109/JSTSP.2022.3156756">Distributed Learning for Wireless Communications: Methods, Applications and Challenges</a>, <br>
+    <strong>Liangxin Qian</strong>, Ping Yang, Ming Xiao, Octavia A. Dobre, Marco Di Renzo, Jun Li, Zhu Han, Qin Yi, and Jiarong Zhao. <br>
+    In <em>IEEE Journal of Selected Topics in Signal Processing (<strong>JSTSP</strong>), 2022.</em>
+  </li>
+  <li>
+    <a href="https://doi.org/10.1109/TCCN.2021.3072593">Multi-Dimensional Polarized Modulation for Land Mobile Satellite Communications</a>, <br>
+    <strong>Liangxin Qian</strong>, Ping Yang, Yong Liang Guan, Zilong Liu, Yue Xiao, Ke Jiang, and Ming Xiao. <br>
+    In <em>IEEE Transactions on Cognitive Communications and Networking (<strong>TCCN</strong>), 2021.</em>
+  </li>
+  <li>
+    <a href="https://doi.org/10.1109/TWC.2024.3433479">Post-Deployment Fine-Tunable Semantic Communication</a>, <br>
+    Peiyuan Si, Renyang Liu, <strong>Liangxin Qian</strong>, Jun Zhao, and Kwok-Yan Lam. <br>
+    In <em>IEEE Transactions on Wireless Communications (<strong>TWC</strong>), 2025.</em>
+  </li>
+  <li>
+    <a href="https://doi.org/10.1109/JSAC.2023.3345397">Human-Centric Resource Allocation in the Metaverse over Wireless Communications</a>, <br>
+    Jun Zhao, <strong>Liangxin Qian</strong>, and Wenhan Yu. <br>
+    In <em>IEEE Journal on Selected Areas in Communications (<strong>JSAC</strong>), 2024.</em>
+  </li>
+  <li>
+    <a href="https://doi.org/10.1109/TNNLS.2024.3409446">AMFL: Resource-Efficient Adaptive Metaverse-Based Federated Learning for the Human-Centric Augmented Reality Applications</a>, <br>
+    Dewen Qiao, <strong>Liangxin Qian</strong>, Songtao Guo, and Jun Zhao. <br>
+    In <em>IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2024.</em>
+  </li>
+</ol>
   
 </div>
 
