@@ -9,6 +9,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
 
++ Program Committee Member, [International Conference on Science of Cyber Security (SciSec), Wuhan, 2025.](https://scisec.org/index.html)
 + Track Chair, Communication Network Security Workshop of SciSec (ComNet-Sec), Denmark, 2024.
 + Program Committee Member, [International Conference on Science of Cyber Security (SciSec), Denmark, 2024.](https://scisec.org/index.html)
 + Session Chair, [13th EAI International Conference on Wireless and Satellite Systems, Singapore, 2022.](https://psats.eai-conferences.org/2022/)
