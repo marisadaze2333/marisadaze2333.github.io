@@ -82,6 +82,11 @@ share: false
     <em>In International Conference on Future Communications and Networks (FCN) Workshop, 2024.</em>
   </li>
   <li>
+    DFT-s-OFDM with Interleaved Subslot-Index Modulation: Waveform Design for ISAC, <br>
+    Yueling Zhao, Ping Yang, Zilong Liu, <strong>Liangxin Qian</strong>, Saviour Zammit, Jianping Wei, and Ruiyang Duan. <br>
+    <em>In International Conference on Communications (ICC) Workshop, 2025.</em>
+  </li>
+  <li>
     <a href="https://doi.org/10.1109/ICDCS60910.2024.00112">Counterfactual Reward Estimation for Credit Assignment in Multi-Agent Deep Reinforcement Learning over Wireless Video Transmission</a>, <br>
     Wenhan Yu, <strong>Liangxin Qian</strong>, Terence Chua, and Jun Zhao. <br>
     <em>In IEEE 44th International Conference on Distributed Computing Systems (<strong>ICDCS</strong>), 2024.</em>
