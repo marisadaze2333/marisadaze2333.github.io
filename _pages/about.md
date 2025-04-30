@@ -62,7 +62,7 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
 # Selected Awards
 
 + DTC Research Scholarship, 2025 - Present
-+ Outstanding Reviewer Award for FGCS Journal, 2024
++ Outstanding Reviewer Award for FGCS Journal (Selection rate is below 1.4%), 2024
 + BigCom 2024 Best Student Paper Award, 2024
 + SCRIPTS Research Scholarship, 2022 - 2025
 + China National Scholarship, 1st out of 199 Competitors, 2021
