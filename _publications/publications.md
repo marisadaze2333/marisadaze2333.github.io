@@ -79,7 +79,7 @@ share: false
   <li>
     Self-Evolving Wireless Communications: A Novel Intelligence Trend for 6G and Beyond, <br>
     <strong>Liangxin Qian</strong>, Ping Yang, Gang Wu, Wanbin Tang, and Ze Chen. <br>
-    <em>In International Conference on Future Communications and Networks (FCN) Workshop, 2024.</em>
+    <em>In International Conference on Future Communications and Networks (FCN), 2024.</em>
   </li>
   <li>
     DFT-s-OFDM with Interleaved Subslot-Index Modulation: Waveform Design for ISAC, <br>
