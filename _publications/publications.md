@@ -12,6 +12,11 @@ share: false
 ### *Journal Papers*
 
 <ol>
+ <li>
+    Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications</a>, <br>
+    <strong>Liangxin Qian</strong> and Jun Zhao. <br>
+    In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2025.</em>
+  </li>
   <li>
     <a href="https://doi.org/10.1109/TWC.2024.3401184">User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications</a>, <br>
     <strong>Liangxin Qian</strong>, Chang Liu, and Jun Zhao. <br>
@@ -133,10 +138,6 @@ share: false
 <div style="font-size: 16px;" markdown="1"> 
 
 <ol>
-  <li>
-    Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications, <br>
-    <strong>Liangxin Qian</strong> and Jun Zhao.
-  </li>
   <li>
     Applications of Inequalities to Optimization in Communication Networking: Novel Decoupling Techniques and Bounds for Multiplicative Terms Through Successive Convex Approximation, <br>
     <strong>Liangxin Qian</strong>, Wenhan Yu, Peiyuan Si, and Jun Zhao.
