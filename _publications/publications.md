@@ -13,7 +13,7 @@ share: false
 
 <ol>
  <li>
-    Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications</a>, <br>
+    Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications, <br>
     <strong>Liangxin Qian</strong> and Jun Zhao. <br>
     In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2025.</em>
   </li>
