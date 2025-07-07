@@ -154,10 +154,6 @@ share: false
     Joint Optimization in Heterogeneous STIN Mobile Edge Computing Systems, <br>
     Tianming Lan, <strong>Liangxin Qian</strong>, Xinyu Zhou, and Jun Zhao.
   </li>
-  <li>
-    Transforms for Multiplicative and Fractional Programming with Broad Applications in Edge Computing and Communication Networks, <br>
-    Yitong Wang, Jun Zhao, <strong>Liangxin Qian</strong>, and Chang Liu.
-  </li>
 </ol>
 
   
