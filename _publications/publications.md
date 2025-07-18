@@ -62,12 +62,12 @@ share: false
     <em>In <strong>IEEE ICDCS</strong>, 2025.</em>
   </li>
   <li>
-    Utility-Cost Ratio Maximization in Quantum Networks for Secure Quantum Key Distribution, <br>
+    <a href="https://doi.org/10.1109/QCNC64685.2025.00012">Utility-Cost Ratio Maximization in Quantum Networks for Secure Quantum Key Distribution</a>, <br>
     <strong>Liangxin Qian</strong> and Jun Zhao. <br>
     <em>In IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2025.</em>
   </li>
   <li>
-    Quantum Networks in 6G Communications: Technologies, Challenges, and Applications, <br>
+    <a href="https://doi.org/10.1109/QCNC64685.2025.00119">Quantum Networks in 6G Communications: Technologies, Challenges, and Applications</a>, <br>
     <strong>Liangxin Qian</strong> and Jun Zhao. <br>
     <em>In IEEE International Conference on Quantum Communications, Networking, and Computing (QCNC), 2025.</em>
   </li>
@@ -82,7 +82,7 @@ share: false
     <em>In IEEE 99th Vehicular Technology Conference (VTC-2024 Spring), 2024.</em>
   </li>
   <li>
-    Self-Evolving Wireless Communications: A Novel Intelligence Trend for 6G and Beyond, <br>
+    <a href="https://doi.org/10.1109/FCN64323.2024.10984554">Self-Evolving Wireless Communications: A Novel Intelligence Trend for 6G and Beyond</a>, <br>
     <strong>Liangxin Qian</strong>, Ping Yang, Gang Wu, Wanbin Tang, and Ze Chen. <br>
     <em>In International Conference on Future Communications and Networks (FCN), 2024.</em>
   </li>
@@ -97,7 +97,7 @@ share: false
     <em>In IEEE 44th International Conference on Distributed Computing Systems (<strong>ICDCS</strong>), 2024.</em>
   </li>
   <li>
-    Fine-Tunable Semantic Communication for Image Transmission, <br>
+    <a href="https://doi.org/10.1109/BIGCOM65357.2024.00047">Fine-Tunable Semantic Communication for Image Transmission</a>, <br>
     Peiyuan Si, Renyang Liu, <strong>Liangxin Qian</strong>, Jun Zhao, and Kwok-Yan Lam. <br>
     <em>In 10th International Conference on Big Data Computing and Communications (<strong>BigCom</strong>, <strong>Best Student Paper</strong>), 2024.</em>
   </li>
