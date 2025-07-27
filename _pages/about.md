@@ -31,7 +31,7 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
 
 <div style="display: flex; align-items: center;">
     <div style="width: 150px; height: 120px; margin-right: 10px;">
-        <img src="../images/ICL_Logo.png" alt="ICL Logo" style="width: 85%; height: 85%; object-fit: contain;" />
+        <img src="../images/ICL_Logo.pdf" alt="ICL Logo" style="width: 85%; height: 85%; object-fit: contain;" />
     </div>
     <div>
         <b>Imperial College London</b> <br>
