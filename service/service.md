@@ -35,6 +35,7 @@ share: false
 + IEEE Systems Journal
 + IEEE Vehicular Technology Magazine
 + ACM Transactions on Quantum Computing
++ ACM Computing Surveys (CSUR)
 + Transactions on Emerging Telecommunications Technologies
 + EURASIP Journal on Wireless Communications and Networking
 + Computer Communications
