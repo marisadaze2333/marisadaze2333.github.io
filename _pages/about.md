@@ -23,7 +23,7 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
         <b>Nanyang Technological University</b> <br>
         College of Computing and Data Science <br>
         Aug. 2022 - Present  <br>
-        Ph.D. Candidate
+        Ph.D. Candidate (Supervisor: Prof. Kwok Yan Lam and Prof. Jun Zhao)
     </div>
 </div>
 
@@ -51,7 +51,7 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
         <b>University of Electronic Science and Technology of China</b> <br>
         National Key Laboratory of Wireless Communications <br>
         Sep. 2019 - Jun. 2022 <br>
-        M.E. in Information and Communication Engineering
+        M.E. in Information and Communication Engineering (Supervisor: Prof. Ping Yang)
     </div>
 </div>
 
