@@ -65,7 +65,7 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
         <b>University of Electronic Science and Technology of China</b> <br>
         School of Information and Communication Engineering <br>
         Sep. 2015 - Jun. 2019 <br>
-        B.E. in Information and Communication Engineering
+        B.E. in Information and Communication Engineering (Supervisor: Prof. Ping Yang)
     </div>
 </div>
 &nbsp;
