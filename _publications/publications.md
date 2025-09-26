@@ -92,7 +92,7 @@ share: false
     <em>In International Conference on Future Communications and Networks (FCN), 2024.</em>
   </li>
   <li>
-    <a href="https://doi.org/10.1109/ICCWorkshops67674.2025.11162333">DFT-s-OFDM with Interleaved Subslot-Index Modulation: Waveform Design for ISAC, <br>
+    <a href="https://doi.org/10.1109/ICCWorkshops67674.2025.11162333">DFT-s-OFDM with Interleaved Subslot-Index Modulation: Waveform Design for ISAC</a>, <br>
     Yueling Zhao, Ping Yang, Zilong Liu, <strong>Liangxin Qian</strong>, Saviour Zammit, Jianping Wei, and Ruiyang Duan. <br>
     <em>In International Conference on Communications (ICC) Workshop, 2025.</em>
   </li>
