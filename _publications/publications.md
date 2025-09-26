@@ -13,6 +13,11 @@ share: false
 
 <ol>
  <li>
+    Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks, <br>
+    <strong>Liangxin Qian</strong>, Peiyuan Si, Jun Zhao, and Kwok Yan Lam.<br>
+    In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), Major Revision, 2025.</em>
+  </li>
+ <li>
     Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications, <br>
     <strong>Liangxin Qian</strong> and Jun Zhao. <br>
     In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2025.</em>
@@ -141,10 +146,6 @@ share: false
   <li>
     Applications of Inequalities to Optimization in Communication Networking: Novel Decoupling Techniques and Bounds for Multiplicative Terms Through Successive Convex Approximation, <br>
     <strong>Liangxin Qian</strong>, Wenhan Yu, Peiyuan Si, and Jun Zhao.
-  </li>
-  <li>
-    Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks, <br>
-    <strong>Liangxin Qian</strong> and Jun Zhao.
   </li>
   <li>
     A Survey on Private Transformer Inference, <br>
