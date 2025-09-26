@@ -92,7 +92,7 @@ share: false
     <em>In International Conference on Future Communications and Networks (FCN), 2024.</em>
   </li>
   <li>
-    DFT-s-OFDM with Interleaved Subslot-Index Modulation: Waveform Design for ISAC, <br>
+    <a href="https://doi.org/10.1109/ICCWorkshops67674.2025.11162333">DFT-s-OFDM with Interleaved Subslot-Index Modulation: Waveform Design for ISAC, <br>
     Yueling Zhao, Ping Yang, Zilong Liu, <strong>Liangxin Qian</strong>, Saviour Zammit, Jianping Wei, and Ruiyang Duan. <br>
     <em>In International Conference on Communications (ICC) Workshop, 2025.</em>
   </li>
@@ -145,7 +145,7 @@ share: false
 <ol>
   <li>
     Applications of Inequalities to Optimization in Communication Networking: Novel Decoupling Techniques and Bounds for Multiplicative Terms Through Successive Convex Approximation, <br>
-    <strong>Liangxin Qian</strong>, Wenhan Yu, Peiyuan Si, and Jun Zhao.
+    <strong>Liangxin Qian</strong>, Wenhan Yu, Peiyuan Si, Xuanyu Cao, and Jun Zhao.
   </li>
   <li>
     A Survey on Private Transformer Inference, <br>
