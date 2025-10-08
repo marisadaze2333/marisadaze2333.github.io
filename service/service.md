@@ -28,6 +28,7 @@ share: false
 + IEEE Transactions on Wireless Communications (TWC)
 + IEEE Transactions on Communications (TCOM)
 + IEEE Transactions on Cognitive Communications and Networking (TCCN)
++ IEEE Transactions on Vehicular Technology (TVT)
 + IEEE Wireless Communications Letters (WCL)
 + IEEE Communications Letters (CL)
 + IEEE Open Journal of the Computer Society (OJCS)
