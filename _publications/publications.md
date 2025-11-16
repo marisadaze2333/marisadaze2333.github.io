@@ -96,6 +96,11 @@ share: false
     Yueling Zhao, Ping Yang, Zilong Liu, <strong>Liangxin Qian</strong>, Saviour Zammit, Jianping Wei, and Ruiyang Duan. <br>
     <em>In International Conference on Communications (ICC) Workshop, 2025.</em>
   </li>
+ <li>
+    Orthogonal Chirp Division Multiplexing With Index Modulation for ISAC-Based Communication Systems, <br>
+    Yueling Zhao, Ping Yang, Jiaqi Liu, <strong>Liangxin Qian</strong>, Shuaixin Yang, Gang Wu, Yue Xiao, and Tony Q.S. Quek. <br>
+    <em>In IEEE 102nd Vehicular Technology Conference (VTC-2025 Fall), 2025.</em>
+  </li>
   <li>
     <a href="https://doi.org/10.1109/ICDCS60910.2024.00112">Counterfactual Reward Estimation for Credit Assignment in Multi-Agent Deep Reinforcement Learning over Wireless Video Transmission</a>, <br>
     Wenhan Yu, <strong>Liangxin Qian</strong>, Terence Chua, and Jun Zhao. <br>
