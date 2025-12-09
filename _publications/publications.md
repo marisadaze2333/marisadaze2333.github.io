@@ -91,6 +91,11 @@ share: false
     <strong>Liangxin Qian</strong>, Ping Yang, Gang Wu, Wanbin Tang, and Ze Chen. <br>
     <em>In International Conference on Future Communications and Networks (FCN), 2024.</em>
   </li>
+ <li>
+    Joint Optimization of Secure and Energy-Efficient Retrieval-Augmented Generation for Mobile Edge Computing, <br>
+    Chang Liu, <strong>Liangxin Qian</strong>, Jadhav Chaitanya Dhananjay, and Jun Zhao. <br>
+    <em>In <strong>IEEE INFOCOM</strong>, 2026.</em>
+ </li>
   <li>
     <a href="https://doi.org/10.1109/ICCWorkshops67674.2025.11162333">DFT-s-OFDM with Interleaved Subslot-Index Modulation: Waveform Design for ISAC</a>, <br>
     Yueling Zhao, Ping Yang, Zilong Liu, <strong>Liangxin Qian</strong>, Saviour Zammit, Jianping Wei, and Ruiyang Duan. <br>
