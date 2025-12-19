@@ -18,6 +18,10 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
 - **12/2025**: IEEE INFOCOM paper accepted: "Joint Optimization of Secure and Energy-Efficient Retrieval-Augmented Generation for Mobile Edge Computing".
 - **6/2025**: IEEE TMC paper accepted: "Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications".
 - **3/2025**: IEEE ICDCS paper accepted: "QuHE: Optimizing Utility-Cost in Quantum Key Distribution and Homomorphic Encryption Enabled Secure Edge Computing Networks".
+- **7/2024**: ACM MobiHoc paper accepted: "Data Processing Efficiency Aware User Association and Resource Allocation in Blockchain Enabled Metaverse over Wireless Communications".
+- **7/2024**: IEEE TWC paper accepted: "Post-Deployment Fine-Tunable Semantic Communication".
+- **5/2024**: IEEE TWC paper accepted: "User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications".
+- **4/2024**: IEEE ICDCS paper accepted: "Counterfactual Reward Estimation for Credit Assignment in Multi-agent Deep Reinforcement Learning over Wireless Video Transmission".
 
 <hr>
 
