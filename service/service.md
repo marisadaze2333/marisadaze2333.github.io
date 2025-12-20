@@ -32,18 +32,14 @@ share: false
 + IEEE Wireless Communications Letters (WCL)
 + IEEE Communications Letters (CL)
 + IEEE Open Journal of the Computer Society (OJCS)
-+ IEEE Access
-+ IEEE Systems Journal
 + IEEE Vehicular Technology Magazine
 + ACM Transactions on Quantum Computing
 + ACM Computing Surveys (CSUR)
 + SCIENCE CHINA Information Sciences
 + Transactions on Emerging Telecommunications Technologies
-+ EURASIP Journal on Wireless Communications and Networking
 + Computer Communications
 + Future Generation Computer Systems
 + Distributed Ledger Technologies
-+ Telematics and Informatics Reports
 
 </div>
 
