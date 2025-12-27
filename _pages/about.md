@@ -15,6 +15,7 @@ I am a PhD student at [College of Computing and Data Science](https://www.ntu.ed
 
 # Recent Updates
 
+- **12/2025**: IEEE TMC paper accepted: "Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks".
 - **12/2025**: IEEE INFOCOM paper accepted: "Joint Optimization of Secure and Energy-Efficient Retrieval-Augmented Generation for Mobile Edge Computing".
 - **6/2025**: IEEE TMC paper accepted: "Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications".
 - **3/2025**: IEEE ICDCS paper accepted: "QuHE: Optimizing Utility-Cost in Quantum Key Distribution and Homomorphic Encryption Enabled Secure Edge Computing Networks".
