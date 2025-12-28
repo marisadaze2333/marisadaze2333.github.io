@@ -22,6 +22,7 @@ share: false
 <div style="font-size: 16px;" markdown="1">
   
 + IEEE Transactions on Networking (TON)
++ IEEE Transactions on Mobile Computing (TMC)
 + IEEE Transactions on Information Forensics & Security (TIFS)
 + IEEE Journal of Selected Areas in Communications (JSAC)
 + IEEE Journal of Selected Topics in Signal Processing (JSTSP)
