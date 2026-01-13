@@ -13,12 +13,12 @@ share: false
 
 <ol>
  <li>
-    Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks, <br>
+    <a href="https://doi.org/10.1109/TMC.2026.3653031">Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks</a>, <br>
     <strong>Liangxin Qian</strong>, Peiyuan Si, Jun Zhao, and Kwok Yan Lam.<br>
     In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2025.</em>
   </li>
  <li>
-    Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications, <br>
+    <a href="https://doi.org/10.1109/TMC.2025.3581952">Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications</a>, <br>
     <strong>Liangxin Qian</strong> and Jun Zhao. <br>
     In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2025.</em>
   </li>
@@ -102,7 +102,7 @@ share: false
     <em>In International Conference on Communications (ICC) Workshop, 2025.</em>
   </li>
  <li>
-    Orthogonal Chirp Division Multiplexing With Index Modulation for ISAC-Based Communication Systems, <br>
+    <a href="https://doi.org/10.1109/VTC2025-Fall65116.2025.11309349">Orthogonal Chirp Division Multiplexing With Index Modulation for ISAC-Based Communication Systems</a>, <br>
     Yueling Zhao, Ping Yang, Jiaqi Liu, <strong>Liangxin Qian</strong>, Shuaixin Yang, Gang Wu, Yue Xiao, and Tony Q.S. Quek. <br>
     <em>In IEEE 102nd Vehicular Technology Conference (VTC-2025 Fall), 2025.</em>
   </li>
