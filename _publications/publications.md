@@ -15,12 +15,12 @@ share: false
  <li>
     <a href="https://doi.org/10.1109/TMC.2026.3653031">Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks</a>, <br>
     <strong>Liangxin Qian</strong>, Peiyuan Si, Jun Zhao, and Kwok Yan Lam.<br>
-    In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2025.</em>
+    In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2026.</em>
   </li>
  <li>
     <a href="https://doi.org/10.1109/TMC.2025.3581952">Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications</a>, <br>
     <strong>Liangxin Qian</strong> and Jun Zhao. <br>
-    In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2025.</em>
+    In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2026.</em>
   </li>
   <li>
     <a href="https://doi.org/10.1109/TWC.2024.3401184">User Connection and Resource Allocation Optimization in Blockchain Empowered Metaverse over 6G Wireless Communications</a>, <br>
