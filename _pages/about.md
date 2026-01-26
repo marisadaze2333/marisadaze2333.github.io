@@ -1,11 +1,9 @@
 ---
-layout: home
-classes: wide
----
----
 permalink: /
 title: "Biography"
 author_profile: true
+layout: home
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
