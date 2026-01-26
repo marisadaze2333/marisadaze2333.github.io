@@ -2,7 +2,7 @@
 permalink: /
 title: "Biography"
 author_profile: true
-classes: wide
+classes: full
 redirect_from: 
   - /about/
   - /about.html
