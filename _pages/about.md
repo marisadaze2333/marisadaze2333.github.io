@@ -29,9 +29,9 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
 # Education 
 
 <div style="display: flex; align-items: center;">
-    <div style="width: 150px; height: 120px; margin-right: 10px;">
+    <!-- <div style="width: 150px; height: 120px; margin-right: 10px;">
         <img src="../images/NTU_Logo.png" alt="NTU Logo" style="width: 100%; height: 100%; object-fit: contain;" />
-    </div>
+    </div> -->
     <div>
         <b>Nanyang Technological University</b> <br>
         College of Computing and Data Science <br>
@@ -43,9 +43,9 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
 ---
 
 <div style="display: flex; align-items: center;">
-    <div style="width: 150px; height: 120px; margin-right: 10px;">
+    <!-- <div style="width: 150px; height: 120px; margin-right: 10px;">
         <img src="../images/IC_Logo.jpg" alt="ICL Logo" style="width: 85%; height: 85%; object-fit: contain;" />
-    </div>
+    </div> -->
     <div>
         <b>Imperial College London</b> <br>
         Department of Electrical and Electronic Engineering <br>
@@ -57,9 +57,9 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
 ---
 
 <div style="display: flex; align-items: center;">
-    <div style="width: 150px; height: 120px; margin-right: 10px;">
+    <!-- <div style="width: 150px; height: 120px; margin-right: 10px;">
         <img src="../images/UESTC_Logo.png" alt="UESTC Logo" style="width: 85%; height: 85%; object-fit: contain;" />
-    </div>
+    </div> -->
     <div>
         <b>University of Electronic Science and Technology of China</b> <br>
         National Key Laboratory of Wireless Communications <br>
@@ -71,9 +71,9 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
 ---
 
 <div style="display: flex; align-items: center;">
-    <div style="width: 150px; height: 120px; margin-right: 10px;">
+    <!-- <div style="width: 150px; height: 120px; margin-right: 10px;">
         <img src="../images/UESTC_Logo.png" alt="UESTC Logo" style="width: 85%; height: 85%; object-fit: contain;" />
-    </div>
+    </div> -->
     <div>
         <b>University of Electronic Science and Technology of China</b> <br>
         School of Information and Communication Engineering <br>
