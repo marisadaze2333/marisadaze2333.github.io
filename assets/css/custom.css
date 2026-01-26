@@ -1,1 +1,17 @@
 
+/* Make Academic Pages / Minimal Mistakes content wider */
+.masthead__inner-wrap,
+.page__inner-wrap,
+.initial-content,
+.page__footer footer {
+  max-width: 95vw !important;
+}
+
+/* Optional padding so text doesn't touch edges */
+.masthead__inner-wrap,
+.page__inner-wrap,
+.initial-content,
+.page__footer footer {
+  padding-left: 20px;
+  padding-right: 20px;
+}
