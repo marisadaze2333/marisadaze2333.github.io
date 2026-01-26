@@ -31,4 +31,37 @@
 
 <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css">
 
+<style>
+/* === Force wider content area (Academic Pages / Minimal Mistakes) === */
+
+/* 1) Remove the global max-width cap */
+#main,
+.masthead__inner-wrap,
+.page__inner-wrap,
+.initial-content,
+.page__footer footer {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* 2) Remove any max-width on the actual text column */
+.page__content,
+.archive,
+.page {
+  max-width: none !important;
+}
+
+/* 3) If you use author_profile sidebar, let content take the remaining space */
+@media (min-width: 64em) {
+  .sidebar {
+    width: 18rem !important; /* keep sidebar reasonable */
+  }
+  .page__content {
+    width: calc(100% - 18rem) !important;
+    padding-right: 2rem;
+  }
+}
+</style>
+
+
 <!-- end custom head snippets -->
