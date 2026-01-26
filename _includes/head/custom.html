@@ -32,36 +32,40 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css">
 
 <style>
-/* === Force wider content area (Academic Pages / Minimal Mistakes) === */
+/* ===== Widen site but KEEP centered (no left-floating) ===== */
+:root{
+  --site-max: 1400px;      /* try 1600px if you want wider */
+  --sidebar-w: 18rem;      /* sidebar width on desktop */
+}
 
-/* 1) Remove the global max-width cap */
-#main,
+/* keep wrapper centered */
 .masthead__inner-wrap,
 .page__inner-wrap,
 .initial-content,
-.page__footer footer {
-  max-width: none !important;
-  width: 100% !important;
+.page__footer footer{
+  max-width: var(--site-max) !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
-/* 2) Remove any max-width on the actual text column */
-.page__content,
-.archive,
-.page {
-  max-width: none !important;
-}
-
-/* 3) If you use author_profile sidebar, let content take the remaining space */
-@media (min-width: 64em) {
-  .sidebar {
-    width: 18rem !important; /* keep sidebar reasonable */
+/* widen the main content area next to the author sidebar */
+@media (min-width: 64em){
+  /* Minimal Mistakes layout uses sidebar + archive */
+  .sidebar{
+    width: var(--sidebar-w) !important;
   }
-  .page__content {
-    width: calc(100% - 18rem) !important;
-    padding-right: 2rem;
+  .archive{
+    max-width: none !important;
+    width: calc(100% - var(--sidebar-w)) !important;
+  }
+  .page__content{
+    max-width: none !important;
   }
 }
 </style>
+
 
 
 <!-- end custom head snippets -->
