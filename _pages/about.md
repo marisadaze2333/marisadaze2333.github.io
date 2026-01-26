@@ -1,4 +1,8 @@
 ---
+layout: home
+classes: wide
+---
+---
 permalink: /
 title: "Biography"
 author_profile: true
