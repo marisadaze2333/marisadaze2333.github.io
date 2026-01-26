@@ -2,6 +2,7 @@
 permalink: /
 title: "Biography"
 author_profile: true
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
