@@ -13,7 +13,7 @@ share: false
 
 <ol>
  <li>
-    <a href="https://doi.org/10.1109/TMC.2026.3653031">Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks</a>, <br>
+    <a href="https://doi.org/10.1109/TMC.2026.3653031">Parameter Training Efficiency Aware Resource Allocation for AIGC in Space-Air-Ground Integrated Networks</a>, <br>
     <strong>Liangxin Qian</strong>, Peiyuan Si, Jun Zhao, and Kwok Yan Lam.<br>
     In <em>IEEE Transactions on Mobile Computing (<strong>TMC</strong>), 2026.</em>
   </li>
