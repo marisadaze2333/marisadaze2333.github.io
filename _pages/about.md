@@ -15,6 +15,7 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
 
 # Recent Updates
 
+- **4/2026**: IEEE <strong>TWC</strong> paper accepted: "Joint Optimization in Heterogeneous Mobile Edge-Satellite-Cloud Continuum".
 - **12/2025**: IEEE <strong>TMC</strong> paper accepted: "Parameter Training Efficiency Aware Resource Allocation for AIGC in 6G Space-Air-Ground Integrated Networks".
 - **12/2025**: IEEE <strong>INFOCOM</strong> paper accepted: "Joint Optimization of Secure and Energy-Efficient Retrieval-Augmented Generation for Mobile Edge Computing".
 - **6/2025**: IEEE <strong>TMC</strong> paper accepted: "Enhancing Data Processing Efficiency in Blockchain Enabled Metaverse over Wireless Communications".
