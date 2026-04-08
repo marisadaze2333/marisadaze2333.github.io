@@ -38,6 +38,11 @@ share: false
     In <em>IEEE Transactions on Cognitive Communications and Networking (<strong>TCCN</strong>), 2021.</em>
   </li>
   <li>
+    Joint Optimization in Heterogeneous Mobile Edge-Satellite-Cloud Continuum, <br>
+    Tianming Lan, <strong>Liangxin Qian</strong>, Xinyu Zhou, and Jun Zhao. <br>
+    In <em>IEEE Transactions on Wireless Communications (<strong>TWC</strong>), 2026.</em>
+  </li>
+  <li>
     <a href="https://doi.org/10.1109/TWC.2024.3433479">Post-Deployment Fine-Tunable Semantic Communication</a>, <br>
     Peiyuan Si, Renyang Liu, <strong>Liangxin Qian</strong>, Jun Zhao, and Kwok-Yan Lam. <br>
     In <em>IEEE Transactions on Wireless Communications (<strong>TWC</strong>), 2025.</em>
@@ -160,10 +165,6 @@ share: false
   <li>
     A Survey on Private Transformer Inference, <br>
     Yang Li, Xinyu Zhou, Yitong Wang, <strong>Liangxin Qian</strong>, and Jun Zhao.
-  </li>
-  <li>
-    Joint Optimization in Heterogeneous STIN Mobile Edge Computing Systems, <br>
-    Tianming Lan, <strong>Liangxin Qian</strong>, Xinyu Zhou, and Jun Zhao.
   </li>
 </ol>
 
