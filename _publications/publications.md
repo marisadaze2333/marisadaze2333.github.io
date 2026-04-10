@@ -43,6 +43,11 @@ share: false
     In <em>IEEE Transactions on Wireless Communications (<strong>TWC</strong>), 2026.</em>
   </li>
   <li>
+    Novel Transform Based Optimization for Resource Allocation and Task Offloading in Communication Networks, <br>
+    Yitong Wang, Jun Zhao, <strong>Liangxin Qian</strong>, and Chang Liu. <br>
+    In <em>IEEE Transactions on Communications (<strong>TCOM</strong>), 2026.</em>
+  </li>
+  <li>
     <a href="https://doi.org/10.1109/TWC.2024.3433479">Post-Deployment Fine-Tunable Semantic Communication</a>, <br>
     Peiyuan Si, Renyang Liu, <strong>Liangxin Qian</strong>, Jun Zhao, and Kwok-Yan Lam. <br>
     In <em>IEEE Transactions on Wireless Communications (<strong>TWC</strong>), 2025.</em>
