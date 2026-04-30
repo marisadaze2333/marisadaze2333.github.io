@@ -71,6 +71,11 @@ share: false
 <div style="font-size: 16px;" markdown="1"> 
 
 <ol>
+ <li>
+    Federated Bilevel Performative Prediction, <br>
+    <strong>Liangxin Qian</strong>, Chang Liu, Xuanyu Cao, Jun Zhao, and Kwok-Yan Lam. <br>
+    <em>In <strong>ICML</strong>, 2026.</em>
+  </li>
   <li>
     <a href="https://doi.org/10.1109/ICDCS63083.2025.00084">QuHE: Optimizing Utility-Cost in Quantum Key Distribution and Homomorphic Encryption Enabled Secure Edge Computing Networks</a>, <br>
     <strong>Liangxin Qian</strong>, Yang Li, and Jun Zhao. <br>
