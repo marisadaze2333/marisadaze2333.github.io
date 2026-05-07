@@ -38,12 +38,12 @@ share: false
     In <em>IEEE Transactions on Cognitive Communications and Networking (<strong>TCCN</strong>), 2021.</em>
   </li>
   <li>
-    Joint Optimization in Heterogeneous Mobile Edge-Satellite-Cloud Continuum, <br>
+    <a href="https://doi.org/10.1109/TWC.2026.3682951">Joint Optimization in Heterogeneous Mobile Edge-Satellite-Cloud Continuum</a>, <br>
     Tianming Lan, <strong>Liangxin Qian</strong>, Xinyu Zhou, and Jun Zhao. <br>
     In <em>IEEE Transactions on Wireless Communications (<strong>TWC</strong>), 2026.</em>
   </li>
   <li>
-    Novel Transform Based Optimization for Resource Allocation and Task Offloading in Communication Networks, <br>
+    <a href="https://doi.org/10.1109/TCOMM.2026.3684911">Novel Transform Based Optimization for Resource Allocation and Task Offloading in Communication Networks</a>, <br>
     Yitong Wang, Jun Zhao, <strong>Liangxin Qian</strong>, and Chang Liu. <br>
     In <em>IEEE Transactions on Communications (<strong>TCOM</strong>), 2026.</em>
   </li>
