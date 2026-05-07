@@ -9,6 +9,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
 
++ Program Committee Member, The 2nd International Workshop on Reliable and Efficient Multi-agent Services (REMS 2026), Part of the 2026 IEEE World Congress on SERVICES (SERVICES 2026), Sydney, 2026.
 + Program Committee Member, [International Conference on Science of Cyber Security (SciSec), Wuhan, 2025.](https://scisec.org/index.html)
 + Track Chair, Communication Network Security Workshop of SciSec (ComNet-Sec), Denmark, 2024.
 + Program Committee Member, [International Conference on Science of Cyber Security (SciSec), Denmark, 2024.](https://scisec.org/index.html)
@@ -48,7 +49,7 @@ share: false
 
 <div style="font-size: 16px;" markdown="1">
 
-
++ International Conference on Machine Learning (ICML)
 + ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS)
 + IEEE International Conference on Computer Communications (INFOCOM)
 + IEEE International Conference on Distributed Computing Systems (ICDCS)
