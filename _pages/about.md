@@ -53,7 +53,7 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
         <b>Imperial College London</b> <br>
         Department of Electrical and Electronic Engineering <br>
         Jul. 2025<br>
-        Visiting Student (Prof. Bruno Clerckx)
+        Visiting Student (Supervisor: Prof. Bruno Clerckx)
     </div>
 </div>
 
