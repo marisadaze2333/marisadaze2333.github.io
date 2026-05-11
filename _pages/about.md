@@ -38,7 +38,7 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
     <div>
         <b>Nanyang Technological University</b> <br>
         College of Computing and Data Science <br>
-        Aug. 2022 - Present  <br>
+        Aug. 2022 - May. 2026  <br>
         Ph.D. Candidate (Supervisors: Prof. Jun Zhao and Prof. Kwok Yan Lam)
     </div>
 </div>
