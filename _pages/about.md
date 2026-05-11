@@ -90,10 +90,10 @@ I am a PhD student at College of Computing and Data Science, Nanyang Technologic
 
 # Selected Awards and Scholarships
 
-+ DTC Research Scholarship, 2025 - Present
++ DTC Research Scholarship, Apr, 2025 - Mar, 2026
 + Outstanding Reviewer Award for FGCS Journal, 2024
 + BigCom 2024 Best Student Paper Award, 2024
-+ SCRIPTS Research Scholarship, 2022 - 2025
++ SCRIPTS Research Scholarship, Aug, 2022 - Mar, 2025
 + China National Scholarship, 2021
   
 <hr>
