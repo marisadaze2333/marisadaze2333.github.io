@@ -37,6 +37,11 @@ share: false
     <strong>Liangxin Qian</strong>, Ping Yang, Yong Liang Guan, Zilong Liu, Yue Xiao, Ke Jiang, and Ming Xiao. <br>
     In <em>IEEE Transactions on Cognitive Communications and Networking (<strong>TCCN</strong>), 2021.</em>
   </li>
+ <li>
+    Post-Quantum Secure Semantic Communication with Discrete Latent Representations, <br>
+    Peiyuan Si, <strong>Liangxin Qian</strong>, Renyang Liu, Jun Zhao, and Kwok-Yan Lam. <br>
+    In <em>IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2026.</em>
+  </li>
   <li>
     <a href="https://doi.org/10.1109/TWC.2026.3682951">Joint Optimization in Heterogeneous Mobile Edge-Satellite-Cloud Continuum</a>, <br>
     Tianming Lan, <strong>Liangxin Qian</strong>, Xinyu Zhou, and Jun Zhao. <br>
