@@ -40,7 +40,7 @@ I am currently on the job market. I was a Ph.D. student in the College of Comput
         <b>Nanyang Technological University</b> <br>
         College of Computing and Data Science <br>
         Aug. 2022 - May. 2026  <br>
-        Ph.D. Candidate (Supervisors: Prof. Kwok-Yan Lam and Prof. Jun Zhao)
+        Ph.D. Candidate (Supervisor: Prof. Kwok-Yan Lam)
     </div>
 </div>
 
