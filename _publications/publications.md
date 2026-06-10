@@ -174,8 +174,8 @@ share: false
 
 <ol>
   <li>
-    Applications of Inequalities to Optimization in Communication Networking: Novel Decoupling Techniques and Bounds for Multiplicative Terms Through Successive Convex Approximation, <br>
-    <strong>Liangxin Qian</strong>, Wenhan Yu, Peiyuan Si, Xuanyu Cao, and Jun Zhao.
+   A Unified Successive Approximation Framework for General Coupled Multiplicative and Fractional Optimization: HM-GM-AM-QM Transforms and Applications, <br>
+    <strong>Liangxin Qian</strong>, Wenhan Yu, Peiyuan Si, Jun Zhao, Ping Yang, Xuanyu Cao, and Kwok-Yan Lam.
   </li>
   <li>
     A Survey on Private Transformer Inference, <br>
