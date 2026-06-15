@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently on the job market. I was a Ph.D. student in the College of Computing and Data Science at Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Kwok-Yan Lam](https://personal.ntu.edu.sg/kwokyan.lam/) and remotely supervised by [Prof. Xuanyu Cao](https://labs.wsu.edu/xuanyu/). In 2019 and 2022, I received my Bachelor's and Master's degrees in communication engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China. My research interests include mobile edge computing, federated learning, bilevel optimization, quantum communications, and security.
+I am currently on the job market. I was a Ph.D. student in the College of Computing and Data Science at Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Kwok-Yan Lam](https://personal.ntu.edu.sg/kwokyan.lam/) and remotely supervised by [Prof. Xuanyu Cao](https://labs.wsu.edu/xuanyu/). In 2019 and 2022, I received my Bachelor's and Master's degrees in communication engineering from University of Electronic Science and Technology of China (UESTC), Chengdu, China, under the supervision of [Prof. Ping Yang](https://www.ncl.uestc.edu.cn/info/1019/1031.htm). My research interests include mobile edge computing, federated learning, bilevel optimization, quantum communications, and security.
 
 <a href="mailto:qian0080@e.ntu.edu.sg">**Email**: qian0080 [at] e.ntu.edu.sg</a>
 
