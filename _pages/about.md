@@ -39,8 +39,8 @@ I received my Ph.D. from the College of Computing and Data Science at Nanyang Te
     <div>
         <b>Nanyang Technological University</b> <br>
         College of Computing and Data Science <br>
-        Aug. 2022 - May. 2026  <br>
-        Ph.D. Candidate (Supervisors: Prof. Kwok-Yan Lam and Prof. Jun Zhao)
+        Aug. 2022 - May 2026  <br>
+        Ph.D. (Supervisors: Prof. Kwok-Yan Lam and Prof. Jun Zhao)
     </div>
 </div>
 
