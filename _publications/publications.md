@@ -38,7 +38,7 @@ share: false
     In <em>IEEE Transactions on Cognitive Communications and Networking (<strong>TCCN</strong>), 2021.</em>
   </li>
  <li>
-    Post-Quantum Secure Semantic Communication with Discrete Latent Representations, <br>
+    <a href="https://doi.org/10.1109/TIFS.2026.3705320">Post-Quantum Secure Semantic Communication with Discrete Latent Representations</a>, <br>
     Peiyuan Si, <strong>Liangxin Qian</strong>, Renyang Liu, Jun Zhao, and Kwok-Yan Lam. <br>
     In <em>IEEE Transactions on Information Forensics and Security (<strong>TIFS</strong>), 2026.</em>
   </li>
@@ -112,7 +112,7 @@ share: false
     <em>In International Conference on Future Communications and Networks (FCN), 2024.</em>
   </li>
  <li>
-    Joint Optimization of Secure and Energy-Efficient Retrieval-Augmented Generation for Mobile Edge Computing, <br>
+    <a href="https://doi.org/10.1109/INFOCOM59046.2026.11571647">Joint Optimization of Secure and Energy-Efficient Retrieval-Augmented Generation for Mobile Edge Computing</a>, <br>
     Chang Liu, <strong>Liangxin Qian</strong>, Jadhav Chaitanya Dhananjay, and Jun Zhao. <br>
     <em>In <strong>IEEE INFOCOM</strong>, 2026.</em>
  </li>
