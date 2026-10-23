@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="color: #C0392B; font-weight: bold;">
-  I am actively seeking faculty positions.
+  I am actively seeking faculty positions
 </p>
 
 I am currently a Research Fellow at the Digital Trust Centre (DTC), Nanyang Technological University (NTU), Singapore. I received my Ph.D. from the College of Computing and Data Science at NTU, Singapore, in May 2026, under the supervision of [Prof. Kwok-Yan Lam](https://personal.ntu.edu.sg/kwokyan.lam/). I also closely collaborate with [Prof. Xuanyu Cao](https://labs.wsu.edu/xuanyu/). In 2019 and 2022, I received my B.Eng and M.Eng degrees in communication engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, under the supervision of [Prof. Ping Yang](https://www.ncl.uestc.edu.cn/info/1019/1031.htm). My research interests include post-quantum cryptography, federated learning, bilevel optimization, and mobile edge computing.
